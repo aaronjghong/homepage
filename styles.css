@@ -37,6 +37,8 @@ a:focus{
     right: 0;
     margin-right: 0;
     border: 1px solid #9015a3;
+	border-top: none;
+	border-right: none;
 }
 #head{
     margin: auto 0 auto 0;
@@ -49,6 +51,7 @@ a:focus{
     margin: auto 0 auto 0;
     background-color: #9015a3;
     top: 0;
+	padding: 0 0 15px 0;
 }
 #hover-bar{
     background-color: #ffc107;
